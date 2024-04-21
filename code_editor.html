@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Editor For HTML, CSS and Js</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="cbody">
+    <div class="container-3">
+        <div class="left">
+            <label><ion-icon name="logo-html5" id="Hlogo"></ion-icon></label>
+            <textarea id="html-code" onkeyup="run()"></textarea>
+
+            <label><ion-icon name="logo-css3" id="Clogo"></ion-icon></label>
+            <textarea id="CSS-code" onkeyup="run()"></textarea>
+
+            <label><ion-icon name="logo-javascript" id="Jlogo"></ion-icon></label>
+            <textarea id="JS-code" onkeyup="run()"></textarea>
+        </div>
+            <div class="right">
+                <label><ion-icon name="download-outline" id="save" onclick="saveCode()"></ion-icon></label>
+                <label><a href = 'console.html'><ion-icon name="terminal-outline"></ion-icon></a></label>
+            <iframe id="output"></iframe>
+
+          
+        </div>
+    </div>
+    <footer>
+        <p>Made with ❤️ by <span id="f-s">Mehek Fatima </span>&copy; 2024</p>
+    </footer>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="script.js"></script>
+</html>
