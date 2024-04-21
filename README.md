@@ -30,10 +30,10 @@ This website aims to provide a sleek Markdown editor with live preview and the a
 ![Markdown Editor](screenshots/markdown_editor.png)
 
 ### Code Editor 
-![Code Editor](screenshots/code_editor.png)
+![Code Editor](https://github.com/MehekFatima/devtool-studio/blob/main/screenshots/code_editor.gif)
 
 ### Console
-![Code Editor](https://github.com/MehekFatima/devtool-studio/blob/main/screenshots/code_editor.gif)
+![Console](screenshots/console.png)
 
 ## Website Link
 
