@@ -24,7 +24,7 @@ This website aims to provide a sleek Markdown editor with live preview and the a
 ## Website Screenshots
 
 ### Home
-![Home Page](screenshots/home.gif)
+![Home Page](https://github.com/MehekFatima/devtool-studio/blob/main/screenshots/Home.gif)
 
 ### Markdown Editor
 ![Markdown Editor](screenshots/markdown_editor.png)
@@ -33,7 +33,7 @@ This website aims to provide a sleek Markdown editor with live preview and the a
 ![Code Editor](screenshots/code_editor.png)
 
 ### Console
-![Code Editor](screenshots/console.png)
+![Code Editor](https://github.com/MehekFatima/devtool-studio/blob/main/screenshots/code_editor.gif)
 
 ## Website Link
 
