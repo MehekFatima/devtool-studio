@@ -19,7 +19,7 @@ This website aims to provide a sleek Markdown editor with live preview and the a
 ### Console (Limited Functionality)
 
 - **JavaScript Console**: Execute JavaScript code with limited functionalities.
-- **Debugging**: Basic console logging for code debugging.
+
 
 ## Website Screenshots
 
